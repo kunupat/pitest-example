@@ -1,9 +1,9 @@
-# pitest-example
+# Pitest Example
 Mutation Testing using Pitest.
 
-# Running pitest
+# Running Pitest
 
 Maven Goal: `org.pitest:pitest-maven:mutationCoverage`
 
-# Pitest reports
+# Pitest Reports
 Reports are created in `target/pit-reports`
